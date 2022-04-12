@@ -1,0 +1,418 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Městečko, kde se zastavil čas",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Bohumil Hrabal",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-02-06T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_001.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_002.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_003.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_004.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_005.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_006.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_007.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_008.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_009.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_010.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_011.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_012.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_013.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_014.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_015.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_016.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_017.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mestecko_kde_se_zastavil_cas_018.md",
+            "xhtml": "mestecko_kde_se_zastavil_cas_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Městečko, kde se zastavil čas",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Bohumil Hrabal",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-02-06T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_001.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_002.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_003.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_004.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_004.xhtml"
+      },
+      {
+        "titleSuggest": "1",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_005.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_005.xhtml"
+      },
+      {
+        "titleSuggest": "2",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_006.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_006.xhtml"
+      },
+      {
+        "titleSuggest": "3",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_007.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_007.xhtml"
+      },
+      {
+        "titleSuggest": "4",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_008.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_008.xhtml"
+      },
+      {
+        "titleSuggest": "5",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_009.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_009.xhtml"
+      },
+      {
+        "titleSuggest": "6",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_010.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_010.xhtml"
+      },
+      {
+        "titleSuggest": "7",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_011.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_011.xhtml"
+      },
+      {
+        "titleSuggest": "8",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_012.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_012.xhtml"
+      },
+      {
+        "titleSuggest": "9",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_013.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_013.xhtml"
+      },
+      {
+        "titleSuggest": "10",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_014.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_014.xhtml"
+      },
+      {
+        "titleSuggest": "11",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_015.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_015.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_016.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_017.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mestecko_kde_se_zastavil_cas_018.md",
+        "xhtml": "mestecko_kde_se_zastavil_cas_018.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/mestecko_k_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/kocka_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_mestecko_kde_se__fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-doprava",
+      "MLP-text-doprava--I",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "char-style-override-1",
+      "char-style-override-2",
+      "char-style-override-4",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "hrabal-mestecko-kde-se"
+    },
+    "generatedAt": 1649751870286
+  }
+}
