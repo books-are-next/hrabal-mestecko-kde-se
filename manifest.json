@@ -1,0 +1,330 @@
+{
+  "author": "Bohumil Hrabal",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-afdd842",
+  "languagecode": "cs",
+  "modified": "2020-02-06T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Městečko, kde se zastavil čas",
+  "revision": "afdd842",
+  "generatedAt": {
+    "date": "Tue Apr 12 2022 08:32:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649752337142
+  },
+  "documents": [
+    {
+      "title": "Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "mestecko_kde_se_zastavil_cas_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_005.html",
+      "words": 3118,
+      "chars": 17440,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 1,
+      "prev": "mestecko_kde_se_zastavil_cas_002.html",
+      "next": "mestecko_kde_se_zastavil_cas_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_006.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "mestecko_kde_se_zastavil_cas_005.html",
+      "next": "mestecko_kde_se_zastavil_cas_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_007.html",
+      "words": 1623,
+      "chars": 9293,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 3,
+      "prev": "mestecko_kde_se_zastavil_cas_006.html",
+      "next": "mestecko_kde_se_zastavil_cas_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_008.html",
+      "words": 1963,
+      "chars": 11331,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 4,
+      "prev": "mestecko_kde_se_zastavil_cas_007.html",
+      "next": "mestecko_kde_se_zastavil_cas_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_009.html",
+      "words": 4524,
+      "chars": 25596,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 5,
+      "prev": "mestecko_kde_se_zastavil_cas_008.html",
+      "next": "mestecko_kde_se_zastavil_cas_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_010.html",
+      "words": 5285,
+      "chars": 30570,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 6,
+      "prev": "mestecko_kde_se_zastavil_cas_009.html",
+      "next": "mestecko_kde_se_zastavil_cas_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_011.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "mestecko_kde_se_zastavil_cas_010.html",
+      "next": "mestecko_kde_se_zastavil_cas_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_012.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 8,
+      "prev": "mestecko_kde_se_zastavil_cas_011.html",
+      "next": "mestecko_kde_se_zastavil_cas_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_013.html",
+      "words": 3347,
+      "chars": 19596,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 9,
+      "prev": "mestecko_kde_se_zastavil_cas_012.html",
+      "next": "mestecko_kde_se_zastavil_cas_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_014.html",
+      "words": 3718,
+      "chars": 21874,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 10,
+      "prev": "mestecko_kde_se_zastavil_cas_013.html",
+      "next": "mestecko_kde_se_zastavil_cas_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11 • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_015.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 11,
+      "prev": "mestecko_kde_se_zastavil_cas_014.html",
+      "next": "mestecko_kde_se_zastavil_cas_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * * • Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_016.html",
+      "words": 559,
+      "chars": 3202,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 12,
+      "prev": "mestecko_kde_se_zastavil_cas_015.html",
+      "next": "mestecko_kde_se_zastavil_cas_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Městečko, kde se zastavil čas",
+      "file": "mestecko_kde_se_zastavil_cas_018.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 13,
+      "prev": "mestecko_kde_se_zastavil_cas_016.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Městečko, kde se zastavil čas",
+      "file": "colophon.html",
+      "words": 152,
+      "chars": 977,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
+      "prev": "mestecko_kde_se_zastavil_cas_018.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 24302,
+      "chars": 139938,
+      "ideas": 64
+    },
+    "chapters": {
+      "words": 24141,
+      "chars": 138907,
+      "ideas": 38
+    }
+  }
+}

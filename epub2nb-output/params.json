@@ -1,27 +1,31 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Městečko, kde se zastavil čas",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Bohumil Hrabal",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-02-06T00:00:00.000Z"
+      "modified": "2020-02-06T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP-uroven2-kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "blockquote": "",
+      "figure": "MLP-obrazky",
+      "em": "MLP-text-doprava--I",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": ""
@@ -30,17 +34,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "mestecko_kde_se_zastavil_cas_001.md",
             "xhtml": "mestecko_kde_se_zastavil_cas_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_002.md",
@@ -48,32 +54,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_003.md",
             "xhtml": "mestecko_kde_se_zastavil_cas_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_004.md",
             "xhtml": "mestecko_kde_se_zastavil_cas_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_005.md",
@@ -84,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_006.md",
@@ -95,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_007.md",
@@ -106,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "3"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_008.md",
@@ -117,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "4"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_009.md",
@@ -128,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "5"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_010.md",
@@ -139,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "6"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_011.md",
@@ -150,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "7"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_012.md",
@@ -161,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "8"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_013.md",
@@ -172,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "9"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_014.md",
@@ -183,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "10"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_015.md",
@@ -194,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "11"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_016.md",
@@ -205,18 +236,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_017.md",
             "xhtml": "mestecko_kde_se_zastavil_cas_017.xhtml",
             "id": 16,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_018.md",
@@ -224,10 +258,11 @@
             "id": 17,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -413,6 +448,6 @@
       "user": "books-are-next",
       "repo": "hrabal-mestecko-kde-se"
     },
-    "generatedAt": 1649751870286
+    "generatedAt": 1649752281825
   }
 }
