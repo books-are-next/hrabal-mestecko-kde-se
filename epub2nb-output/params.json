@@ -52,7 +52,7 @@
             "filename": "mestecko_kde_se_zastavil_cas_002.md",
             "xhtml": "mestecko_kde_se_zastavil_cas_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -448,6 +448,6 @@
       "user": "books-are-next",
       "repo": "hrabal-mestecko-kde-se"
     },
-    "generatedAt": 1649752281825
+    "generatedAt": 1652351624499
   }
 }

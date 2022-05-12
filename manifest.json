@@ -1,22 +1,40 @@
 {
-  "author": "Bohumil Hrabal",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-afdd842",
-  "languagecode": "cs",
-  "modified": "2020-02-06T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Městečko, kde se zastavil čas",
-  "revision": "afdd842",
+  "author": "Bohumil Hrabal",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-124cde4",
+  "revision": "124cde4",
+  "readingOrder": [
+    "promo.html",
+    "mestecko_kde_se_zastavil_cas_005.html",
+    "mestecko_kde_se_zastavil_cas_006.html",
+    "mestecko_kde_se_zastavil_cas_007.html",
+    "mestecko_kde_se_zastavil_cas_008.html",
+    "mestecko_kde_se_zastavil_cas_009.html",
+    "mestecko_kde_se_zastavil_cas_010.html",
+    "mestecko_kde_se_zastavil_cas_011.html",
+    "mestecko_kde_se_zastavil_cas_012.html",
+    "mestecko_kde_se_zastavil_cas_013.html",
+    "mestecko_kde_se_zastavil_cas_014.html",
+    "mestecko_kde_se_zastavil_cas_015.html",
+    "mestecko_kde_se_zastavil_cas_016.html",
+    "mestecko_kde_se_zastavil_cas_018.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Apr 12 2022 08:32:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649752337142
+    "date": "Thu May 12 2022 10:42:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352164798
   },
   "documents": [
     {
-      "title": "Městečko, kde se zastavil čas",
-      "file": "mestecko_kde_se_zastavil_cas_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +42,17 @@
       "order": 0,
       "prev": null,
       "next": "mestecko_kde_se_zastavil_cas_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "1 • Městečko, kde se zastavil čas",
+      "title": "1",
       "file": "mestecko_kde_se_zastavil_cas_005.html",
       "words": 3118,
       "chars": 17440,
       "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "mestecko_kde_se_zastavil_cas_002.html",
+      "prev": "promo.html",
       "next": "mestecko_kde_se_zastavil_cas_006.html",
       "toc": [
         {
@@ -55,7 +65,7 @@
       ]
     },
     {
-      "title": "2 • Městečko, kde se zastavil čas",
+      "title": "2",
       "file": "mestecko_kde_se_zastavil_cas_006.html",
       "words": 1,
       "chars": 1,
@@ -75,7 +85,7 @@
       ]
     },
     {
-      "title": "3 • Městečko, kde se zastavil čas",
+      "title": "3",
       "file": "mestecko_kde_se_zastavil_cas_007.html",
       "words": 1623,
       "chars": 9293,
@@ -95,7 +105,7 @@
       ]
     },
     {
-      "title": "4 • Městečko, kde se zastavil čas",
+      "title": "4",
       "file": "mestecko_kde_se_zastavil_cas_008.html",
       "words": 1963,
       "chars": 11331,
@@ -115,7 +125,7 @@
       ]
     },
     {
-      "title": "5 • Městečko, kde se zastavil čas",
+      "title": "5",
       "file": "mestecko_kde_se_zastavil_cas_009.html",
       "words": 4524,
       "chars": 25596,
@@ -135,7 +145,7 @@
       ]
     },
     {
-      "title": "6 • Městečko, kde se zastavil čas",
+      "title": "6",
       "file": "mestecko_kde_se_zastavil_cas_010.html",
       "words": 5285,
       "chars": 30570,
@@ -155,7 +165,7 @@
       ]
     },
     {
-      "title": "7 • Městečko, kde se zastavil čas",
+      "title": "7",
       "file": "mestecko_kde_se_zastavil_cas_011.html",
       "words": 1,
       "chars": 1,
@@ -175,7 +185,7 @@
       ]
     },
     {
-      "title": "8 • Městečko, kde se zastavil čas",
+      "title": "8",
       "file": "mestecko_kde_se_zastavil_cas_012.html",
       "words": 1,
       "chars": 1,
@@ -195,7 +205,7 @@
       ]
     },
     {
-      "title": "9 • Městečko, kde se zastavil čas",
+      "title": "9",
       "file": "mestecko_kde_se_zastavil_cas_013.html",
       "words": 3347,
       "chars": 19596,
@@ -215,7 +225,7 @@
       ]
     },
     {
-      "title": "10 • Městečko, kde se zastavil čas",
+      "title": "10",
       "file": "mestecko_kde_se_zastavil_cas_014.html",
       "words": 3718,
       "chars": 21874,
@@ -235,7 +245,7 @@
       ]
     },
     {
-      "title": "11 • Městečko, kde se zastavil čas",
+      "title": "11",
       "file": "mestecko_kde_se_zastavil_cas_015.html",
       "words": 1,
       "chars": 2,
@@ -255,7 +265,7 @@
       ]
     },
     {
-      "title": "* * * • Městečko, kde se zastavil čas",
+      "title": "* * *",
       "file": "mestecko_kde_se_zastavil_cas_016.html",
       "words": 559,
       "chars": 3202,
@@ -295,11 +305,11 @@
       ]
     },
     {
-      "title": "Tiráž • Městečko, kde se zastavil čas",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 152,
-      "chars": 977,
-      "ideas": 22,
+      "words": 131,
+      "chars": 827,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "mestecko_kde_se_zastavil_cas_018.html",
@@ -317,9 +327,9 @@
   ],
   "totals": {
     "all": {
-      "words": 24302,
-      "chars": 139938,
-      "ideas": 64
+      "words": 24281,
+      "chars": 139788,
+      "ideas": 58
     },
     "chapters": {
       "words": 24141,

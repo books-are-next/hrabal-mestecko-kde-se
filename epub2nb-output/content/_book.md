@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - mestecko_kde_se_zastavil_cas_002.html
+  - promo.html
   - mestecko_kde_se_zastavil_cas_005.html
   - mestecko_kde_se_zastavil_cas_006.html
   - mestecko_kde_se_zastavil_cas_007.html
