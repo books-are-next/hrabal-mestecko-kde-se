@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-124cde4",
-  "revision": "124cde4",
+  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-1943a9d",
+  "revision": "1943a9d",
   "readingOrder": [
     "promo.html",
     "mestecko_kde_se_zastavil_cas_005.html",
@@ -28,8 +28,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:42:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352164798
+    "date": "Fri Jun 10 2022 14:16:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870618491
   },
   "documents": [
     {
@@ -307,9 +307,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 131,
-      "chars": 827,
-      "ideas": 16,
+      "words": 126,
+      "chars": 794,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "mestecko_kde_se_zastavil_cas_018.html",
@@ -327,9 +327,9 @@
   ],
   "totals": {
     "all": {
-      "words": 24281,
-      "chars": 139788,
-      "ideas": 58
+      "words": 24276,
+      "chars": 139755,
+      "ideas": 57
     },
     "chapters": {
       "words": 24141,
