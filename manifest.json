@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-1943a9d",
-  "revision": "1943a9d",
+  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-c4b5b42",
+  "revision": "c4b5b42",
   "readingOrder": [
     "promo.html",
     "mestecko_kde_se_zastavil_cas_005.html",
@@ -28,8 +28,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:16:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870618491
+    "date": "Fri Jun 10 2022 17:50:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883425553
   },
   "documents": [
     {
@@ -67,9 +67,9 @@
     {
       "title": "2",
       "file": "mestecko_kde_se_zastavil_cas_006.html",
-      "words": 1,
-      "chars": 1,
-      "ideas": 1,
+      "words": 3254,
+      "chars": 18597,
+      "ideas": 2,
       "role": "chapter",
       "order": 2,
       "prev": "mestecko_kde_se_zastavil_cas_005.html",
@@ -167,9 +167,9 @@
     {
       "title": "7",
       "file": "mestecko_kde_se_zastavil_cas_011.html",
-      "words": 1,
-      "chars": 1,
-      "ideas": 1,
+      "words": 3724,
+      "chars": 22025,
+      "ideas": 2,
       "role": "chapter",
       "order": 7,
       "prev": "mestecko_kde_se_zastavil_cas_010.html",
@@ -187,9 +187,9 @@
     {
       "title": "8",
       "file": "mestecko_kde_se_zastavil_cas_012.html",
-      "words": 1,
-      "chars": 1,
-      "ideas": 1,
+      "words": 2966,
+      "chars": 17450,
+      "ideas": 2,
       "role": "chapter",
       "order": 8,
       "prev": "mestecko_kde_se_zastavil_cas_011.html",
@@ -247,9 +247,9 @@
     {
       "title": "11",
       "file": "mestecko_kde_se_zastavil_cas_015.html",
-      "words": 1,
-      "chars": 2,
-      "ideas": 1,
+      "words": 2869,
+      "chars": 16944,
+      "ideas": 2,
       "role": "chapter",
       "order": 11,
       "prev": "mestecko_kde_se_zastavil_cas_014.html",
@@ -287,9 +287,9 @@
     {
       "title": "Městečko, kde se zastavil čas",
       "file": "mestecko_kde_se_zastavil_cas_018.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 13,
       "prev": "mestecko_kde_se_zastavil_cas_016.html",
@@ -307,9 +307,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 126,
-      "chars": 794,
-      "ideas": 15,
+      "words": 92,
+      "chars": 611,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "mestecko_kde_se_zastavil_cas_018.html",
@@ -327,14 +327,14 @@
   ],
   "totals": {
     "all": {
-      "words": 24276,
-      "chars": 139755,
-      "ideas": 57
+      "words": 37052,
+      "chars": 214583,
+      "ideas": 54
     },
     "chapters": {
-      "words": 24141,
-      "chars": 138907,
-      "ideas": 38
+      "words": 36951,
+      "chars": 213918,
+      "ideas": 43
     }
   }
 }
