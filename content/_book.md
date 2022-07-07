@@ -28,7 +28,7 @@ readingOrder:
   - mestecko_kde_se_zastavil_cas_015.html
   - mestecko_kde_se_zastavil_cas_016.html
   - mestecko_kde_se_zastavil_cas_018.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
