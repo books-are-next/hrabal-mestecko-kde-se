@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-34a5708",
-  "revision": "34a5708",
+  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-4ed1d24",
+  "revision": "4ed1d24",
   "readingOrder": [
     "promo.html",
     "mestecko_kde_se_zastavil_cas_005.html",
@@ -25,11 +25,11 @@
     "mestecko_kde_se_zastavil_cas_015.html",
     "mestecko_kde_se_zastavil_cas_016.html",
     "mestecko_kde_se_zastavil_cas_018.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:06:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978763266
+    "date": "Thu Jul 07 2022 08:26:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182383050
   },
   "documents": [
     {
@@ -293,7 +293,7 @@
       "role": "chapter",
       "order": 13,
       "prev": "mestecko_kde_se_zastavil_cas_016.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -306,11 +306,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 140,
-      "chars": 901,
+      "chars": 900,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "mestecko_kde_se_zastavil_cas_018.html",
       "next": null,
@@ -327,8 +327,8 @@
   ],
   "totals": {
     "all": {
-      "words": 37100,
-      "chars": 214873,
+      "words": 37099,
+      "chars": 214877,
       "ideas": 62
     },
     "chapters": {
