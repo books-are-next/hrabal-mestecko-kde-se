@@ -66,7 +66,7 @@ tocBase:
         title: '11'
         hiddenTitle: false
       - link: mestecko_kde_se_zastavil_cas_016.html
-        title: "*\_*\_*"
+        title: \* \* \*
         hiddenTitle: false
     isSection: true
     listType: plain
