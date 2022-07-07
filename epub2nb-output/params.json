@@ -238,7 +238,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "mestecko_kde_se_zastavil_cas_017.md",
@@ -448,6 +448,6 @@
       "user": "books-are-next",
       "repo": "hrabal-mestecko-kde-se"
     },
-    "generatedAt": 1657181949447
+    "generatedAt": 1657184432689
   }
 }
