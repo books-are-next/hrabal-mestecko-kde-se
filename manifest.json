@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-f6d4e5f",
-  "revision": "f6d4e5f",
+  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-2722915",
+  "revision": "2722915",
   "readingOrder": [
     "promo.html",
     "mestecko_kde_se_zastavil_cas_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:28:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657186080231
+    "date": "Thu Jul 21 2022 14:47:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414843572
   },
   "documents": [
     {
@@ -308,7 +308,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 140,
-      "chars": 900,
+      "chars": 901,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -327,8 +327,8 @@
   ],
   "totals": {
     "all": {
-      "words": 37099,
-      "chars": 214877,
+      "words": 37100,
+      "chars": 214873,
       "ideas": 62
     },
     "chapters": {
