@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-7e01669",
-  "revision": "7e01669",
+  "identifier": "hrabal-mestecko-kde-se-zastavil-cas-0b51d4c",
+  "revision": "0b51d4c",
   "readingOrder": [
     "promo.html",
     "mestecko_kde_se_zastavil_cas_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:24:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486674983
+    "date": "Sat Oct 01 2022 15:55:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639734330
   },
   "documents": [
     {
